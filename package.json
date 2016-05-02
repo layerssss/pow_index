@@ -1,0 +1,22 @@
+{
+  "name": "pow_index",
+  "version": "1.0.5",
+  "description": "Guide you from other ports to any of your `pow.io` projects",
+  "main": "index.js",
+  "bin": {
+    "pow_index": "bin/pow_index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/layerssss/pow_index.git"
+  },
+  "author": "Michael Yin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/layerssss/pow_index/issues"
+  },
+  "homepage": "https://github.com/layerssss/pow_index#readme"
+}
